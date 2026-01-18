@@ -1,10 +1,10 @@
 # 📊 Data Professional Survey Breakdown
 
-![Dashboard Preview](Data Analyst Job Survey Dashboard.pdf)
-
+[Data Analyst Job Survey Dashboard.pdf](https://github.com/user-attachments/files/24693890/Data.Analyst.Job.Survey.Dashboard.pdf)
 
 ## 📝 Project Overview
 This project involves analyzing a dataset of data professionals to uncover trends in salaries, job satisfaction, and programming language preferences. The goal was to transform raw survey data into an interactive Power BI dashboard that helps understand the current state of the data job market.
+
 
 ## 🔍 Key Insights & Features
 - **Salary Analysis:** Breakdown of average salaries by job title (Data Scientist, Analyst, Engineer) and location.
