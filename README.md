@@ -18,8 +18,9 @@ This project involves analyzing a dataset of data professionals to uncover trend
 - **DAX (Data Analysis Expressions):** Created measures for average salary, count of survey takers, and happiness metrics.
 
 ## 📂 Project Files
-- **`Data Professional Survey.pbix`**: The downloadable Power BI file containing the full dashboard and data model.
-- **`Survey_Data.xlsx`**: The raw dataset used for this analysis.
+- **`Data Analyst Job Survey Dashboard.pbix`**: The downloadable Power BI file containing the full dashboard and data model.
+- **`Data Analyst Job Survey Dashboard.pdf`**: The Screenshot showing a glimpse of the dashboard
+- **`Survey's RAW Data.xlsx`**: The raw dataset used for this analysis.
 
 ## 🚀 How to View
 1. Download the `.pbix` file from this repository.
