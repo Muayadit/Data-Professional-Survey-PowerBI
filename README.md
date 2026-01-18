@@ -1,6 +1,6 @@
 # 📊 Data Professional Survey Breakdown
 
-[Data Analyst Job Survey Dashboard.pdf](Data Analyst Job Survey Dashboard.pdf)
+([Data Analyst Job Survey Dashboard.pdf](https://github.com/Muayadit/Data-Professional-Survey-PowerBI/blob/ecb636947bbae68c5b92646df10bc845e9d510ba/Data%20Analyst%20Job%20Survey%20Dashboard.pdf))
 
 ## 📝 Project Overview
 This project involves analyzing a dataset of data professionals to uncover trends in salaries, job satisfaction, and programming language preferences. The goal was to transform raw survey data into an interactive Power BI dashboard that helps understand the current state of the data job market.
